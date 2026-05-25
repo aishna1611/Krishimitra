@@ -35,10 +35,3 @@ An IoT and machine learning-based smart agriculture system that monitors soil an
 
 ---
 
-## Future Improvements
-
-- Automated irrigation system
-
-- Weather prediction integration  
-- Pest detection using AI  
-- Mobile application support  
